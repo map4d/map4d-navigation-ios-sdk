@@ -1,6 +1,6 @@
-# Map4D Navigation SDK
+# iPostMap Navigation SDK
 
-Map4D Navigation SDK for iOS
+iPostMap Navigation SDK for iOS
 
 
 ## Installation
@@ -14,8 +14,8 @@ pod repo update
 
 2. Add to Podfile
 ```ruby
-pod 'Map4dNavigation'
+pod 'iPostMapNavigation'
 ```
 
 -------
-Copyright (C) 2026 IOT Link Ltd. All Rights Reserved.
+Copyright (c) 2026 Vietnam Post Corporation. All Rights Reserved.
