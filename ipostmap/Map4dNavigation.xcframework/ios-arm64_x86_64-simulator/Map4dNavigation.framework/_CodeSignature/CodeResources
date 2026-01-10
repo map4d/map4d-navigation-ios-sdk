@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		EAL0tL5s0nGGTl0u0IQbqlQLkTI=
+		7vl1huRomx0w3q27OcIGZVG7//E=
 		</data>
 		<key>Headers/MFNavigationOptions.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Headers/Map4dNavigation.h</key>
 		<data>
-		tK8M/c0g7dPUiegdo1gNcKUfh4I=
+		1CZCwa8mXavWqvHKmm+dwxqMVJI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GmdHUvZFbwrajSNoxoX5bsKI9tU=
+		lJ8uEpa6ysOGtyPS5CrCm7hlIcM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,7 +63,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lrGMMua9nlVS2JdsxERunQvKad6InOchBvuksB4ihVE=
+			TsE4gnnNGQOBu0xOXrp0CHfx3scQ0fgs+OCVEI90FWM=
 			</data>
 		</dict>
 		<key>Headers/MFNavigationOptions.h</key>
@@ -91,7 +91,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DPWomgyy8014CHNd4EObmvCoxVn+++DLya7Sx4SriV4=
+			R71tc8PEnTe3qRGqy4NGxToz2mn+q+o9FqH6vNfujAA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

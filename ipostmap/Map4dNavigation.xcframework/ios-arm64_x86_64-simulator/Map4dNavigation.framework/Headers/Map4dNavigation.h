@@ -1,9 +1,9 @@
 //
-//  Map4dNavigation.h
-//  Map4dNavigation SDK for iOS
-//  Version 1.4.0
+//  iPostMapNavigation.h
+//  iPostMapNavigation SDK for iOS
+//  Version 1.0.0 (1.3.0)
 //
-//  Copyright (c) 2025 IOTLink LLC.
+//  Copyright (c) 2026 Vietnam Post Corporation.
 //
 
 #import <Foundation/Foundation.h>
