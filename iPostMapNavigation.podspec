@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name        = 'iPostMapNavigation'
-    s.version     = '1.0.0'
+    s.version     = '2.0.0'
     s.summary     = 'iPostMap Navigation SDK for iOS'
     s.homepage    = 'https://ipostmap.vn'
     s.author      = { 'Vietnam Post Corporation' => 'cskh@vnpost.vn' }
@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
     s.platform    = :ios, "12.0"
     s.ios.vendored_frameworks = 'ipostmap/Map4dNavigation.xcframework'
 
-    s.dependency 'iPostMap', '~> 1.0'
+    s.dependency 'iPostMap', '~> 3.0'
     s.dependency 'iPostMapServices', '~> 1.0'
 end
