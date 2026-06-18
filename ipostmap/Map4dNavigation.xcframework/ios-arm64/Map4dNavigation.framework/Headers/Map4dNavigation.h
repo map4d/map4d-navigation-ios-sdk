@@ -1,7 +1,7 @@
 //
 //  iPostMapNavigation.h
 //  iPostMapNavigation SDK for iOS
-//  Version 1.0.0 (1.3.0)
+//  Version 2.0.0
 //
 //  Copyright (c) 2026 Vietnam Post Corporation.
 //
